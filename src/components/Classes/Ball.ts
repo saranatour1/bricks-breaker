@@ -36,7 +36,7 @@ export default class Ball {
   }
 
 
-
+  
   // draws ray, but how to make this ray reflect off surface?
   drawRay(ctx:CanvasRenderingContext2D, canvas:HTMLCanvasElement) {
     ctx.beginPath();
