@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "ninja-keys": "^1.2.2",
     "vue": "^3.4.19"
   },
   "devDependencies": {
